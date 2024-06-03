@@ -2,7 +2,7 @@
 
 What2Watch is a Flask web application that allows users to search for movies using the OMDb API and add them to their playlists after logging in. Users can sign up for accounts, log in, and maintain their playlists.
 
-## For deployed link refer: [Deployed_Link]([https://pages.github.com/](https://movie-search-web-app-kx5q.onrender.com/))
+## For deployed link refer: [Deployed_Link](https://movie-search-web-app-kx5q.onrender.com/))
 ## Features
 - User Authentication: Users can sign up for accounts, log in, and log out securely.
 - Search Movies: Users can search for movies using the OMDb API.
