@@ -1,15 +1,16 @@
-#What2Watch
+# What2Watch
+
 What2Watch is a Flask web application that allows users to search for movies using the OMDb API and add them to their playlists after logging in. Users can sign up for accounts, log in, and maintain their playlists.
 
-##For deployed link refer: [Deployed_Link]([https://pages.github.com/](https://movie-search-web-app-kx5q.onrender.com/))
-##Features
+## For deployed link refer: [Deployed_Link]([https://pages.github.com/](https://movie-search-web-app-kx5q.onrender.com/))
+## Features
 - User Authentication: Users can sign up for accounts, log in, and log out securely.
 - Search Movies: Users can search for movies using the OMDb API.
 - Add to Playlist: Authenticated users can add movies to their playlists.
 - Delete from Playlist: Authenticated users can remove movies from their playlists.
 - View Playlist: Users can view their playlists.
   
-##Prerequisites
+## Prerequisites
 Before running the application, ensure you have the following installed:
 
 - Python 3
@@ -17,7 +18,7 @@ Before running the application, ensure you have the following installed:
 - Flask-SQLAlchemy
 - Flask-Login
 
-#Installation
+# Installation
 1. Clone the repository
     git clone https://github.com/yourusername/what2watch.git
     cd what2watch
@@ -41,7 +42,7 @@ Before running the application, ensure you have the following installed:
 
 7. Open your web browser and navigate to http://localhost:5000.
 
-#Usage
+# Usage
 1. Sign up for an account or log in if you already have one.
 2. Search for movies using the search bar on the home page.
 3. Click on a movie to view details.
@@ -49,10 +50,10 @@ Before running the application, ensure you have the following installed:
 5. View your playlist by clicking on the "My Playlist" link in the navigation bar.
 6. To remove a movie from your playlist, click the "Delete" button next to it.
 
-#Contributing
+# Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
 
-#Acknowledgments
+# Acknowledgments
 Thanks to the Fasal Recruiting Team
 
 ![Screenshot of Deployed project](https://drive.google.com/file/d/1vhX_-h0hc_DsIBMsyMz302QR6b7cpZBF/view?usp=sharing)
