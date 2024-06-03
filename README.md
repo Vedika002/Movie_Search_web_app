@@ -42,6 +42,8 @@ Before running the application, ensure you have the following installed:
 
 7. Open your web browser and navigate to http://localhost:5000.
 
+
+
 # Usage
 1. Sign up for an account or log in if you already have one.
 2. Search for movies using the search bar on the home page.
@@ -56,4 +58,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 # Acknowledgments
 Thanks to the Fasal Recruiting Team
 
-
+![Screenshot (169)](https://github.com/Vedika002/movie_Search_web_app/assets/91604900/621a74cb-155c-4246-8ee7-d4c195148586)
+![Screenshot (168)](https://github.com/Vedika002/movie_Search_web_app/assets/91604900/30de4865-463e-4d04-beb2-a27192486b67)
+![Screenshot (167)](https://github.com/Vedika002/movie_Search_web_app/assets/91604900/609b7f66-aafa-4e24-a94d-333bc6f02bc7)
+![Screenshot (166)](https://github.com/Vedika002/movie_Search_web_app/assets/91604900/6a7f18b0-3c27-4f41-b968-35cabc9adc6a)
