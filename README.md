@@ -56,8 +56,4 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 # Acknowledgments
 Thanks to the Fasal Recruiting Team
 
-![Screenshot of Deployed project](https://drive.google.com/file/d/1vhX_-h0hc_DsIBMsyMz302QR6b7cpZBF/view?usp=sharing)
-![Screenshot of Deployed project](https://drive.google.com/file/d/1fMgHzizjCY3xr0wEvi-nVeTK1S91gY4F/view?usp=sharing)
-![Screenshot of Deployed project](https://drive.google.com/file/d/1Nxl5JIq7jzOoiMNZnIc-atdrwnGSIjZz/view?usp=sharing)
-![Screenshot of Deployed project](https://drive.google.com/file/d/1DZgh9jrgomoQSNPlMn8z32ztT71c624m/view?usp=sharing)
-  
+
