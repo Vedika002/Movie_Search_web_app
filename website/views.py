@@ -2,6 +2,7 @@
 from flask import Blueprint, render_template, request, redirect, url_for
 import urllib.request
 import json
+# from movie_library-master import Movie
 
 
 views = Blueprint('views', __name__)
@@ -34,7 +35,7 @@ def add_movie():
     
     movie_imdbID = request.form.get("movie_imdbID")
     
-    
+    movie=movie
     if movie_title and not any(movie['title'] == movie_title for movie in movie_list):
         movie_list.append({'title': movie_title, 'poster': movie_poster, 'imdbID':movie_imdbID})
     return redirect(url_for('views.playlist'))
